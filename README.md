@@ -70,6 +70,8 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
+  <a href="https://www.oracle.com/in/database/technologies/appdev/plsql.html"><img alt="Heroku" src="https://img.shields.io/badge/PL/SQL-red.svg?logo=oracle&logoColor=white"></a>  
+  &emsp;
 </p>
 
 ### 👉 Frameworks
@@ -136,9 +138,7 @@
 	
 	
 </p>
-
-<img  alt="Coding" width="500" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;"/>
+<p align="center">
+  <img width="50%" height="20%" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+</p>
 
