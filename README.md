@@ -64,7 +64,7 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-red?style=flat&logo=Oracle&logoColor=white"/></a>
+    <a href="https://www.oracle.com/in/index.html"><img alt="ORACLE" src ="https://img.shields.io/badge/ORACLE-red?style=flat&logo=Oracle&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
