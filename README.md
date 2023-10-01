@@ -119,7 +119,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Mangaldeep-Singh"><img alt="Mangaldeep's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mangaldeep-singh&bg_color=45414e&color=f3f2f3&line=b7a9b6&point=ab5454&area=true&hide_border=true)](https://github.com/Mangaldeep-Singh)" /></a>
+   <a href="https://github.com/Mangaldeep-Singh"><img alt="Mangaldeep's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mangaldeep-singh&bg_color=f3f4f&color=f3f2f3&line=b7a9b6&point=ab5454&area=true&hide_border=true)](https://github.com/Mangaldeep-Singh)" /></a>
   <br/>
 
 </details>
