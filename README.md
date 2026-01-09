@@ -120,6 +120,12 @@
 
 <br/>
 
+<!-- ---
+# Top Repo
+<div>
+ <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Mangaldeep-Singh&repo=Mangaldeep-Singh&theme=radical"/>
+</div> -->
+
 ---
 
 ## 🤝 Connect With Me
